@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.webp" alt="Alireza Sani Header" width="100%" />
+</p>
 # Alireza Sani
 
 **Civil & Environmental Engineering · Water Systems · Hydrology · Climate & Earth Observation**
