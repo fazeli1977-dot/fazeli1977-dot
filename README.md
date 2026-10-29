@@ -1,5 +1,5 @@
-  <img src="banner-new.png.png" alt="Header" width="100%" />
-<h2 align="left" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; margin-bottom: 8px;">
+<img src="banner-new.png.png" alt="Header" width="100%" height="180" style="object-fit: cover;" />
+
   Alireza Sani
 </h2>
 
