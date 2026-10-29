@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner-new.png" alt="Header" width="100%" />
-</p>
+  <img src="banner-new.png.png" alt="Header" width="100%" />
 # Alireza Sani
 
 **Civil & Environmental Engineering · Water Systems · Hydrology · Climate & Earth Observation**
