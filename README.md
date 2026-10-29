@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.webp.png" alt="Header" width="100%" />
+  <img src="banner.webp.png" alt="Header" width="100%" height="160" style="object-fit: cover; border-radius: 8px;" />
 </p>
 # Alireza Sani
 
