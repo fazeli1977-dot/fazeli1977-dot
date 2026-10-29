@@ -1,9 +1,15 @@
   <img src="banner-new.png.png" alt="Header" width="100%" />
-# Alireza Sani
+<h2 align="left" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; margin-bottom: 8px;">
+  Alireza Sani
+</h2>
 
-**Civil & Environmental Engineering · Water Systems · Hydrology · Climate & Earth Observation**
+<p style="font-size: 1.15em; font-weight: 600; color: #58a6ff; margin-bottom: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+  Civil &amp; Environmental Engineering · Water Systems · Hydrology · Climate &amp; Earth Observation
+</p>
 
-I build practical engineering software for water infrastructure, environmental monitoring, and climate-risk analysis, with a focus on clear calculations and usable decision-support tools.
+<p style="font-size: 1.05em; line-height: 1.6; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+  I build practical engineering software for water infrastructure, environmental monitoring, and climate-risk analysis, with a focus on clear calculations and usable decision-support tools.
+</p>
 
 ## Water & Civil Infrastructure
 
