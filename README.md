@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.webp" alt="Alireza Sani Header" width="100%" />
+  <img src="banner.webp.png" alt="Header" width="100%" />
 </p>
 # Alireza Sani
 
