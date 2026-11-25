@@ -27,6 +27,11 @@ I build Python software for earth observation, climate analysis, and water engin
 
 A bilingual Persian/English geospatial observatory for Lake Urmia, combining satellite-altimetry records, climate reanalysis, GIS layers, and interactive time-series and map views. Data products distinguish direct observations from derived or modeled indicators, with unavailable measurements identified explicitly.
 
+[![Urmia Lake Observatory executive dashboard](https://raw.githubusercontent.com/fazeli1977-dot/Urmia-Lake-Observatory/main/docs/screenshots/01-overview-kpis.png)](https://urmia-lake-observatory.pages.dev/)
+
+[Browse all five project screenshots](https://github.com/fazeli1977-dot/Urmia-Lake-Observatory/tree/main/docs/screenshots)
+
+
 ### SAR-MotionLens — Multi-Frequency SAR/InSAR Lab
 
 [Open the live application](https://sar-motionlens.streamlit.app/) · [View the repository](https://github.com/fazeli1977-dot/SAR-MotionLens)
