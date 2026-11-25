@@ -21,6 +21,12 @@ I build Python software for earth observation, climate analysis, and water engin
 
 ## Featured Projects
 
+### Urmia Lake Observatory — Open Geospatial Monitoring
+
+[Open the live observatory](https://urmia-lake-observatory.pages.dev/) · [View the repository](https://github.com/fazeli1977-dot/Urmia-Lake-Observatory)
+
+A bilingual Persian/English geospatial observatory for Lake Urmia, combining satellite-altimetry records, climate reanalysis, GIS layers, and interactive time-series and map views. Data products distinguish direct observations from derived or modeled indicators, with unavailable measurements identified explicitly.
+
 ### SAR-MotionLens — Multi-Frequency SAR/InSAR Lab
 
 [Open the live application](https://sar-motionlens.streamlit.app/) · [View the repository](https://github.com/fazeli1977-dot/SAR-MotionLens)
@@ -61,7 +67,7 @@ I am open to remote engineering and research collaborations in geospatial softwa
 
 - Email: [alirezafazeli@live.com](mailto:alirezafazeli@live.com)
 - GitHub: [fazeli1977-dot](https://github.com/fazeli1977-dot)
-- Portfolio demo: [SAR-MotionLens](https://sar-motionlens.streamlit.app/)
+- Portfolio demo: [Urmia Lake Observatory](https://urmia-lake-observatory.pages.dev/)
 
 ## Support My Work
 
