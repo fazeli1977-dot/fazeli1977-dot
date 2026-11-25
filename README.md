@@ -113,3 +113,13 @@ Open to international projects, technical collaborations, and engineering softwa
 - GitHub: [fazeli1977-dot](https://github.com/fazeli1977-dot)
 - All repositories: [fazeli1977-dot repositories](https://github.com/fazeli1977-dot?tab=repositories)
 - Live application (SAR-MotionLens): [sar-motionlens.streamlit.app](https://sar-motionlens.streamlit.app/)
+
+## Support My Work
+
+If my open-source projects or engineering tools have been useful to you, you can support their continued development. Contributions are entirely optional and appreciated.
+
+**Ethereum (ETH / ERC-20):**
+
+    0xf3ddb743b4f1BD8b59Bf5Bf22905555Fe5c4B7C1
+
+Please verify the network and address before sending.
