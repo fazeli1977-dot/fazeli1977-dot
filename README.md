@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Alireza Sani
+# Alireza Fazeli Sani
 
 <p style="font-size: 1.1em; font-weight: 600; color: #58a6ff; margin: 0;">
 Geospatial & Environmental Software Engineer · Python · Earth Observation · Water Systems
