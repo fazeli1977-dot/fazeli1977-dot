@@ -14,7 +14,7 @@ I build practical Python software for Earth observation, climate analysis, and w
 
 ### Urmia Lake Observatory — Open Geospatial Monitoring
 
-[Open the live observatory](https://urmia-lake-observatory.pages.dev/) · [View the repository](https://github.com/fazeli1977-dot/Urmia-Lake-Observatory)
+[Open the live observatory](https://urmia-lake-observatory.pages.dev/) · [View the repository](https://github.com/fazeli1977-dot/Urmia-Lake-Observatory) · [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24554247.svg)](https://doi.org/10.5281/zenodo.24554247)
 
 A bilingual Persian/English geospatial observatory for Lake Urmia, combining satellite-altimetry records, climate reanalysis, GIS layers, and interactive time-series and map views. Data products distinguish direct observations from derived or modeled indicators, with unavailable measurements identified explicitly.
 
