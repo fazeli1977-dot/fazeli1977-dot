@@ -6,9 +6,16 @@
 
 **Geospatial & Environmental Software Engineer · Python · Earth Observation · Water Systems**
 
+[![Available for Consulting](https://img.shields.io/badge/Consulting-Available_Remote-2ea44f?style=flat-square)](mailto:alirezafazeli@live.com?subject=Consulting%20%2F%20Project%20Inquiry)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-fazeli-sani-a7b41644/)
+[![Live Observatory](https://img.shields.io/badge/Live_Demo-Urmia_Lake_Observatory-008080?style=flat-square)](https://urmia-lake-observatory.pages.dev/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24554247.svg)](https://doi.org/10.5281/zenodo.24554247)
+
 </div>
 
 I build practical Python software for Earth observation, climate analysis, and water engineering. My work turns geospatial data and engineering methods into transparent, reproducible tools for analysis and decision support.
+
+---
 
 ## Featured Projects
 
@@ -32,9 +39,9 @@ Interactive X-, C- (Sentinel-1), and L-band SAR workflows including interferogra
 
 ### Water Network Optimizer
 
-[View the repository](https://github.com/fazeli1977-dot/water-network-optimizer)
+[View the repository](https://github.com/fazeli1977-dot/water-network-optimizer) · [![CI](https://github.com/fazeli1977-dot/water-network-optimizer/actions/workflows/ci.yml/badge.svg)](https://github.com/fazeli1977-dot/water-network-optimizer/actions/workflows/ci.yml)
 
-A Python toolkit and CLI for pressurized pipe sizing, velocity checks, and Hazen–Williams head-loss calculations, with CSV export.
+A Python toolkit and CLI for pressurized pipe sizing, velocity checks, and Hazen–Williams head-loss calculations, with CSV export and automated `pytest` coverage.
 
 ### Water Sampling App
 
@@ -44,17 +51,46 @@ A Persian RTL workflow for water and wastewater sampling, geotagged records, lab
 
 ### Other Selected Work
 
+- [TerraScope](https://github.com/fazeli1977-dot/TerraScope) — Open satellite environmental intelligence platform monitoring Ramsar wetlands with Sentinel-2 STAC & NDWI/NDVI time series.
+- [ForestPulse-3D](https://github.com/fazeli1977-dot/ForestPulse-3D-Docs) — Autonomous telemetry and wildfire early-warning architecture for the UNESCO Hyrcanian Forests (NASA FIRMS VIIRS & ESA WorldCover).
 - [ClimateLens](https://github.com/fazeli1977-dot/ClimateLens) — Climate-risk and trend-analysis prototype with interactive dashboards (risk scores are heuristic; trend series and fallback data may use synthetic inputs when NASA POWER is unavailable).
 - [FireSync MODIS–VIIRS](https://github.com/fazeli1977-dot/FireSync-MODIS-VIIRS) — Multi-sensor wildfire hotspot harmonization workflow (dashboard examples are synthetic; live FIRMS ingestion has not been demonstrated).
 - [All public repositories](https://github.com/fazeli1977-dot?tab=repositories)
 
+---
+
 ## Focus & Tools
 
-Water systems & environmental monitoring · Hydrology · GIS & remote sensing (SAR/InSAR) · Climate & Earth-observation data · Python · Streamlit · FastAPI · Data processing · Testing & reproducible workflows
+`Python` · `Streamlit` · `FastAPI` · `GIS & WebGIS` · `Remote Sensing (SAR/InSAR)` · `Hydrology & Water Systems` · `ERA5 / NASA / ASF DAAC` · `Automated Testing (pytest)` · `Reproducible Workflows`
 
-## Collaboration
+---
 
-Open to remote engineering and research collaborations in geospatial software, Earth observation, climate data, and water systems. Typical work includes Python tools, data workflows, dashboards, and decision-support applications.
+## Services & Collaboration
+
+Available for **paid remote consulting, R&D partnerships, and custom engineering builds** for research teams, startups, and environmental organizations:
+
+| Area | What I Deliver |
+| :--- | :--- |
+| **Geospatial & EO Pipelines** | Automated Sentinel/SAR/climate data ingestion, time-series indicators, reproducible Python workflows |
+| **Interactive Dashboards & WebGIS** | Decision-support apps in Streamlit or web stacks with clear data provenance & exportable PDF/GeoJSON reports |
+| **Water & Environmental Tools** | Hydraulic sizing CLIs, compliance-check workflows, monitoring databases, and tested Python packages |
+
+**Start a conversation:** [Send a project inquiry](mailto:alirezafazeli@live.com?subject=Consulting%20%2F%20Project%20Inquiry) · [Message on LinkedIn](https://www.linkedin.com/in/alireza-fazeli-sani-a7b41644/)
+
+---
+
+## Support
+
+If these open-source tools or datasets save you time in research or engineering, you can sponsor continued maintenance or fund a specific feature.
+
+<details>
+<summary><strong>Crypto Sponsorship (Ethereum / ERC-20) — Click to view address</strong></summary>
+
+<pre><code>0xf3ddb743b4f1BD8b59Bf5Bf22905555Fe5c4B7C1</code></pre>
+
+*Network: Ethereum (ETH / ERC-20). Please verify the network and address before sending.*
+
+</details>
 
 ## Contact
 
