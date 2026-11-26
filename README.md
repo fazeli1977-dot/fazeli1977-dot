@@ -83,7 +83,7 @@ Available for **paid remote consulting, R&D partnerships, and custom engineering
 
 If these open-source tools or datasets save you time in research or engineering, you can sponsor continued maintenance or fund a specific feature.
 
-<details>
+<details open>
 <summary><strong>Crypto Sponsorship (Ethereum / ERC-20) — Click to view address</strong></summary>
 
 <pre><code>0xf3ddb743b4f1BD8b59Bf5Bf22905555Fe5c4B7C1</code></pre>
