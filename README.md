@@ -58,4 +58,4 @@ Open to remote engineering and research collaborations in geospatial software, E
 
 ## Contact
 
-[Email](mailto:alirezafazeli@live.com) · [GitHub](https://github.com/fazeli1977-dot) · [Urmia Lake Observatory](https://urmia-lake-observatory.pages.dev/)
+[Email](mailto:alirezafazeli@live.com) · [LinkedIn](https://www.linkedin.com/in/alireza-fazeli-sani-a7b41644/) · [GitHub](https://github.com/fazeli1977-dot) · [Urmia Lake Observatory](https://urmia-lake-observatory.pages.dev/)
